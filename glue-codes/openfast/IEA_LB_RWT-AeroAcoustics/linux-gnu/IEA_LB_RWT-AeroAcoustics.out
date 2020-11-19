@@ -1,5 +1,5 @@
 
-Predictions were generated on 06-Nov-2020 at 22:11:01 using OpenFAST, compiled as a 64-bit application using double precision at commit v2.4.0-53-g8bfd804f
+Predictions were generated on 07-Dec-2020 at 17:56:09 using OpenFAST, compiled as a 64-bit application using double precision at commit v2.4.0-77-g45e01076
  linked with  NWTC Subroutine Library; ElastoDyn; InflowWind; AeroDyn
 
 Description from the FAST input file: IEA task 37 RWT turbine -- https://github.com/IEAWindTask37/IEA-3.4-130-RWT
